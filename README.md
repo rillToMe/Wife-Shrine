@@ -36,7 +36,7 @@ Now here we are - an over-engineered boredom project with animations, ambient gl
 ├── assets/
 │   ├── img/                # Waifu images / wallpapers
 │   └── ...
-├── index.html              # Main shrine page
+├── wife.html               # Main shrine page
 ├── style.css               # Neon-dark theme
 ├── app.js                  # Interactive script + logic
 └── README.md              
@@ -61,11 +61,11 @@ Now here we are - an over-engineered boredom project with animations, ambient gl
    cd Wife-Shrine
    ```
 2. Open it locally:
-   - Just open `index.html`, or  
+   - Just open `wife.html`, or  
    - Use a local server (e.g. **VS Code Live Server**).
 3. Add a new waifu:
    - Place image under `assets/img/`  
-   - Duplicate one of the `<a class="card">` blocks in `index.html`  
+   - Duplicate one of the `<a class="card">` blocks in `wife.html`  
    - Fill in `data-bg`, `data-name`, `data-anime`, `data-quote`  
 
 ---
