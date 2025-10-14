@@ -6,7 +6,7 @@
 ## 🦷 Backstory
 It started as a chill day after a tooth extraction.  
 Then came the thought: *“What if I make a waifu shrine but in dark neon style?”*  
-Now here we are - an over-engineered boredom project with animations, ambient glow, and logic way too complex for its purpose 😭  
+Now here we are - an over-engineered boredom project with animations, ambient glow, and logic way too complex for its purpose 
 
 ---
 
