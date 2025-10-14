@@ -35,10 +35,12 @@ Now here we are - an over-engineered boredom project with animations, ambient gl
 /
 ├── assets/
 │   ├── img/                # Waifu images / wallpapers
-│   └── ...
-├── wife.html               # Main shrine page
-├── style.css               # Neon-dark theme
-├── app.js                  # Interactive script + logic
+│   ├── css/ 
+│       └── style.css       # Neon-dark theme
+│   └── js/
+│       └── app.js          # Interactive script + logic
+├── wife.html               # Main shrine page  
+├── vercel.json             # YTTA  
 └── README.md              
 ```
 
